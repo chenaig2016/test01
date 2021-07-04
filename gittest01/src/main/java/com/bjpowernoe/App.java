@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello World!" );
         for(int i=3;i<6;i++){
             System.out.println(i);
+            System.out.println("新中国万岁！");
         }
     }
 }
